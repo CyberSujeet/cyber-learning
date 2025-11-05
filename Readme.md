@@ -12,10 +12,10 @@ Hi! I’m Cyber Sujeet (CSE Diploma – 3rd Sem), learning and building skills f
 📚 Learning Roadmap (Following)
 ✔ TryHackMe — Pre Security  
 ✔ Cyber Security Basics  
-⬜ Networking Fundamentals  
-⬜ How The Web Works  
-⬜ Linux Fundamentals  
-⬜ Windows Fundamentals  
+• Networking Fundamentals  
+• How The Web Works  
+• Linux Fundamentals  
+• Windows Fundamentals  
 
 (Progress will be updated module-wise ✅)
 
